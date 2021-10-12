@@ -1,0 +1,16 @@
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.exe
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.deps.json
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.runtimeconfig.json
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.runtimeconfig.dev.json
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.dll
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\bin\Debug\net5.0\ref\PierwszaApka.dll
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.pdb
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.AssemblyInfo.cs
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.dll
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\ref\PierwszaApka.dll
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.pdb
+C:\Users\krzys\source\repos\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.genruntimeconfig.cache
