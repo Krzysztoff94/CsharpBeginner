@@ -1,0 +1,16 @@
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net5.0\EuclideanAlgorithm.exe
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net5.0\EuclideanAlgorithm.deps.json
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net5.0\EuclideanAlgorithm.runtimeconfig.json
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net5.0\EuclideanAlgorithm.runtimeconfig.dev.json
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net5.0\EuclideanAlgorithm.dll
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net5.0\ref\EuclideanAlgorithm.dll
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\bin\Debug\net5.0\EuclideanAlgorithm.pdb
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.AssemblyInfo.cs
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.dll
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\ref\EuclideanAlgorithm.dll
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.pdb
+C:\Users\krzys\source\repos\EuclideanAlgorithm\EuclideanAlgorithm\obj\Debug\net5.0\EuclideanAlgorithm.genruntimeconfig.cache
